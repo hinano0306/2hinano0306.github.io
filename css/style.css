@@ -88,18 +88,22 @@ img {
 }
 #news .page-title {
     text-align: center;
-    padding: 1% 0
+    font-size: 5rem;
+    padding: 2% 0;
 }
 article {
     width: 60%;
     order: 2;
+    padding: 5% 0 0;
 }
 aside {
     width: 22%;
     order: 3;
+    padding: 5% 0 0;
 }
 .ad {
     order: 1;
+    padding: 5% 0 0;
 }
 .news-contents {
     display: flex;
@@ -174,7 +178,7 @@ aside p {
     background-image: url(../images/menu-bg.jpg);
     min-height: 100vh;
 }
-.menu-content {
+.menu-content { 
     max-width: 560px;
     margin-top: 10%;
 }
