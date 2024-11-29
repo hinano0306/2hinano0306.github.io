@@ -264,6 +264,13 @@ iflame {
 .sns-box {
     width: 30%;
 }
+.frame_wrap {
+    height: 315px;
+}
+.frame {
+    width: 100%;
+    height: 100%;
+}
 
 /* フッター */
 footer {
